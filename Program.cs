@@ -17,7 +17,7 @@ namespace Cebolinha
             
             
             string troca = Console.ReadLine(); 
-            Console.WriteLine(troca.Replace("r","l").Replace("R","L").Replace("rr","ll").Replace("RR","LL"));
+            Console.WriteLine(troca.Replace("r","l").Replace("R","L").Replace("rr","l").Replace("RR","L"));
             
 
 
